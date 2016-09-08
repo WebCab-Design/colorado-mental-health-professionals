@@ -56,3 +56,23 @@ a {
 .large-tabs{
 	padding: 25px;
 }
+
+.content-body{
+	padding: 25px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 2rem;
+	color: #394a76;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+.float-left {
+	padding: 0px 25px 10px 0;
+}
+
+.exhibitor-box{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
